@@ -8,27 +8,27 @@
   <a href="https://devstuffs.com">Start Learning</a> · <a href="https://devstuffs.com/blog">Read Blogs</a> . <a href="https://discord.gg/d6SEtHjg2u">Join Discord</a>
 </p>
 
-🚀 devstuffs is a set of hands-on courses for learning Linux, shell scripting, Docker, Ansible, and more DevOps concepts as they get written baked out straight from my learning experiences.
+🚀 [devstuffs](https://devstuffs.com) is a set of hands-on courses for learning Linux, shell scripting, Docker, Ansible, and more DevOps concepts as they get written baked out straight from my learning experiences.
 
-👉 If you are new to Linux and DevOps, start here: [Linux Fundamentals 🐧](https://devstuffs.com/linux)
+👉 If you are new to Linux and DevOps, start here: [Linux Fundamentals](https://devstuffs.com/linux) 🐧
 
 ---
 
 ## 🧱 Fundamentals Courses
 
-- [Linux Fundamentals 🐧](https://devstuffs.com/linux)
-- [Shell Scripting ⬛>_🖳](https://devstuffs.com/shell-scripting)
-- [Git and Github 𖦥🗁](https://devstuffs.com/git)
+- [Linux Fundamentals](https://devstuffs.com/linux) 🐧
+- [Shell Scripting](https://devstuffs.com/shell-scripting) ⬛>_🖳
+- [Git and Github](https://devstuffs.com/git) 𖦥🗁
 
 ## ♾️ DevOps Specific Courses
 
-- [Docker 🐳](https://devstuffs.com/docker)
-- [Ansible Ⓐ](https://devstuffs.com/ansible)
+- [Docker](https://devstuffs.com/docker) 🐳
+- [Ansible](https://devstuffs.com/ansible) Ⓐ
 
 ## 🔥Upcoming Hot ☕︎ Courses 💥
 
-- [Kubernetes ☸️](https://devstuffs.com)
-- [Terraform 🛠️](https://devstuffs.com)
+- [Kubernetes](https://devstuffs.com) ☸️
+- [Terraform](https://devstuffs.com) 🛠️
 
 <!-- ## 🆓 Curated List of Free Courses 🌟 -->
 
