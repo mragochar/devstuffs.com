@@ -30,9 +30,9 @@
 - [Kubernetes](https://devstuffs.com) ☸️
 - [Terraform](https://devstuffs.com) 🛠️
 
-<!-- ## 🆓 Curated List of Free Courses 🌟 -->
+## 🆓 Curated List of Free Courses 🌟
 
-<!-- - [✨ Free Ansible Ⓐ Course]() -->
+- [✨ Free Ansible Ⓐ Course](https://github.com/mragochar/free-ansible-course)
 
 ## 🖋️✍🏻 Contribute to devstuffs.com
 
